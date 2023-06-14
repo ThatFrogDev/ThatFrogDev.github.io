@@ -1,3 +1,3 @@
-# ThatFrogDev.github.io
+# thatfrogdev.me
 
 My personal website
